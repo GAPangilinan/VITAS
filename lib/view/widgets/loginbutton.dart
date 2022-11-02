@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:vitas_pos_app/view/betscreen.dart';
+import 'package:vitas_pos_app/view/bet/home_betscreen.dart';
+import 'package:vitas_pos_app/view/cashin/cashin_screen.dart';
+import 'package:vitas_pos_app/view/cashin/home_cashin_screen.dart';
+import 'package:vitas_pos_app/view/cashout/home_cashout_screen.dart';
 
 class LoginButton extends StatelessWidget {
   const LoginButton({super.key});
@@ -9,7 +12,7 @@ class LoginButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        Get.off(const BetScreen());
+        Get.to(() => const HomeCashOutScreen());
       },
       child: Container(
         alignment: Alignment.center,

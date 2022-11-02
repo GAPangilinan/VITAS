@@ -39,6 +39,7 @@ dependencies:
   get: ^4.6.5
   hexcolor: ^3.0.1
   percent_indicator: ^4.2.2
+  get_storage: ^2.0.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
