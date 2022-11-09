@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1563156350
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1002335787
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 654055027
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1758846479
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2086177104
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -639512797
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions -std\u003dc++2a\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Gilmer Pangilinan\\VSCodeProjects\\project_vitas\\project_vitas\\build\\flutter_zxing\\intermediates\\cxx\\Debug\\4e5a1260\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Gilmer Pangilinan\\VSCodeProjects\\project_vitas\\project_vitas\\build\\flutter_zxing\\intermediates\\cxx\\Debug\\4e5a1260\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -912459675
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions -std\u003dc++2a\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Gilmer Pangilinan\\VSCodeProjects\\project_vitas\\project_vitas\\build\\flutter_zxing\\intermediates\\cxx\\Debug\\4e5a1260\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Gilmer Pangilinan\\VSCodeProjects\\project_vitas\\project_vitas\\build\\flutter_zxing\\intermediates\\cxx\\Debug\\4e5a1260\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 375174150
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -175595047
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1896443941
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\android\\.cxx\\Debug\\4e5a1260\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1945917345
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Gilmer Pangilinan\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dartlang.org\\flutter_zxing-0.8.4\\ios\\Classes\\src\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -460450271
+  }
+]
