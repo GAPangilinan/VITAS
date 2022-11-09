@@ -1,0 +1,2 @@
+C:\Users\Gilmer Pangilinan\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\flutter_zxing-0.8.4\ios\Classes\src\CMakeLists.txt
+C:\Users\Gilmer Pangilinan\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\flutter_zxing-0.8.4\ios\Classes\src\zxing\CMakeLists.txt
